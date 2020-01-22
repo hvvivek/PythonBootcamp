@@ -1,0 +1,4 @@
+1. Create a variable to store the file name of the song to be played. Create another variable to store the track number on the list. 
+2. Create a list of all the music file names
+3. Create a dictionary for each music file to include file metadata. Examples to include - Song name, Year, Album, Artist etc
+4. Using print, print out the name of the song, and additional metadata from the dictionary

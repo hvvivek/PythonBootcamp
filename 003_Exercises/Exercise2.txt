@@ -1,0 +1,5 @@
+1. Create a function playSong which takes a track_num parameter. It prints "Song xyz is not playing"
+2. Create a function pauseSong which prints "Song is now paused"
+3. Create a Boolean isPlaying which stores the information about whether a song is playing
+4. Create a function showMetadata which takes in the song name as a parameter and prints out the metadata for that song
+5. Create a while loop which checks if a song is still playing. If it is not, it starts the next song. If it is, waits for 1 min and changes the song to not playing
